@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+spider_ai/__init__.py
+spider_ai/items.py
+spider_ai/middlewares.py
+spider_ai/pipelines.py
+spider_ai/settings.py
+spider_ai/spiders/__init__.py
+spider_ai/spiders/bitai.py
